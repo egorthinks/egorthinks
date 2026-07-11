@@ -5,7 +5,7 @@
 
 <h1 align="center">
   <a href="https://github.com/egorthinks">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=900&color=6CC24A&center=true&vCenter=true&width=520&lines=Egor+Fedorov;Tools+for+devs+who+use+AI+every+day;Building+in+the+open;Staying+sharp+%F0%9F%8C%BF" alt="Egor Fedorov" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=6CC24A&center=true&vCenter=true&width=700&height=45&lines=Egor+Fedorov;Tools+for+devs+who+use+AI+every+day;Building+in+the+open;Staying+sharp+%F0%9F%8C%BF" alt="Egor Fedorov" />
   </a>
 </h1>
 
