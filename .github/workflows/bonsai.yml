@@ -1,0 +1,24 @@
+name: bonsai
+
+on:
+  schedule:
+    - cron: '0 3 * * *'      # grow once a day at 03:00 UTC
+  workflow_dispatch:          # + manual "Run workflow" button
+  push:
+    branches: [main]          # regrow when the profile changes
+
+permissions:
+  contents: write
+
+concurrency:
+  group: bonsai
+  cancel-in-progress: true
+
+jobs:
+  grow:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # The action's built-in GITHUB_TOKEN is enough — no personal token needed.
+      - uses: egorthinks/git-bonsai@v1
