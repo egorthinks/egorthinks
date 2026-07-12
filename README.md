@@ -15,7 +15,7 @@
 
 <!-- ── my git-bonsai — grows a little every day ───────────────────────────── -->
 <p align="center">
-  <img src="output/bonsai-growth.gif" width="384" alt="my git-bonsai — a pixel-art tree grown from my GitHub history" />
+  <img src="output/bonsai-growth.gif" width="512" alt="my git-bonsai — a pixel-art tree grown from my GitHub history" />
 </p>
 <p align="center">
   <sub>🌿 A one-of-a-kind pixel-art bonsai, grown procedurally from my GitHub history · <a href="https://github.com/egorthinks/git-bonsai">git-bonsai</a></sub>
@@ -78,6 +78,11 @@ currently: shipping open-source tools & notes
 
 <p align="center">
   <img alt="profile views" src="https://komarev.com/ghpvc/?username=egorthinks&style=flat-square&color=6CC24A&label=profile+views" />
+</p>
+
+<!-- ── the bonsai, swaying in the wind ────────────────────────────────────── -->
+<p align="center">
+  <img src="output/bonsai.gif" width="440" alt="my git-bonsai swaying in the wind" />
 </p>
 
 <p align="center"><sub>🌿 the bonsai above grows a little every day — come back and watch it branch out</sub></p>

@@ -20,5 +20,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # The action's built-in GITHUB_TOKEN is enough — no personal token needed.
       - uses: egorthinks/git-bonsai@v1
+        with:
+          github-token: ${{ secrets.BONSAI_TOKEN }}
