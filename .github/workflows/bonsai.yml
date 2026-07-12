@@ -20,6 +20,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: egorthinks/git-bonsai@v1
+      - uses: egorthinks/git-bonsai@main
         with:
           github-token: ${{ secrets.BONSAI_TOKEN }}
