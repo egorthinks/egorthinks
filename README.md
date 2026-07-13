@@ -19,6 +19,7 @@
 </p>
 <p align="center">
   <sub>🌿 A one-of-a-kind pixel-art bonsai, grown procedurally from my GitHub history · <a href="https://github.com/egorthinks/git-bonsai">git-bonsai</a></sub>
+  [![grown with git-bonsai](https://img.shields.io/badge/🌳_grown_with-git--bonsai-2ea44f)](https://github.com/egorthinks/git-bonsai)
 </p>
 
 ---
@@ -85,4 +86,7 @@ currently: shipping open-source tools & notes
   <img src="output/bonsai.gif" width="768" alt="my git-bonsai swaying in the wind" />
 </p>
 
-<p align="center"><sub>🌿 the bonsai above grows a little every day — come back and watch it branch out</sub></p>
+<p align="center"><sub>🌿 the bonsai above grows a little every day — come back and watch it branch out</sub>
+[![grown with git-bonsai](https://img.shields.io/badge/🌳_grown_with-git--bonsai-2ea44f)](https://github.com/egorthinks/git-bonsai)
+</p>
+
