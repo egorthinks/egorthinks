@@ -64,10 +64,11 @@ currently: shipping open-source tools & notes
 ### 📊 By the numbers
 
 <p align="center">
-  <img height="165" alt="Egor's GitHub stats"
-       src="https://github-readme-stats.vercel.app/api?username=egorthinks&show_icons=true&hide_border=true&title_color=6CC24A&icon_color=6CC24A&text_color=808080&bg_color=00000000&include_all_commits=true" />
-  <img height="165" alt="Top languages"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=egorthinks&layout=compact&hide_border=true&title_color=6CC24A&text_color=808080&bg_color=00000000&langs_count=6" />
+  <img alt="GitHub streak &amp; contributions"
+       src="https://streak-stats.demolab.com/?user=egorthinks&theme=transparent&hide_border=true&background=00000000&ring=6CC24A&fire=6CC24A&currStreakLabel=6CC24A&sideLabels=808080&dates=808080&currStreakNum=808080&sideNums=808080&stroke=808080" />
+</p>
+<p align="center">
+  <img alt="Followers" src="https://img.shields.io/github/followers/egorthinks?style=for-the-badge&logo=github&label=Followers&color=6CC24A&labelColor=161b22" />
 </p>
 
 <!-- ── connect ────────────────────────────────────────────────────────────── -->
